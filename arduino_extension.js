@@ -544,7 +544,7 @@
 
   var blocks = {
     en: [
-      ['h', 'When device is connected', 'whenConnected'],
+      ['h', 'While device is connected', 'whenConnected'],
       [' ', 'connect %m.hwOut to pin %n', 'connectHW', 'led A', 3],
       [' ', 'connect %m.hwIn to analog %n', 'connectHW', 'rotation knob', 0],
       ['-'],
